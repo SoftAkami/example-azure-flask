@@ -1,3 +1,4 @@
+test
 # How to deploy your Flask app to Azure (with example)
 
 This tutorial will show you, how to deploy your Flask app to Azure App Service.
